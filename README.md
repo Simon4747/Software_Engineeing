@@ -51,10 +51,10 @@ if __name__ =="__main__":
     print(main())
 ```
   ### Результат
-  ![image](https://github.com/Simon4747/Software_Engineeing/assets/147588966/eb70b10f-96d9-4328-8691-fce3738eadf0)
+  ![image](https://github.com/Simon4747/Software_Engineeing/assets/147588966/954f745a-fe3f-4e32-8929-e27e5ca2b36b)
 
 
- 
+
 ## Краткий вывод:
 def main(): - Определена функция main.
 
@@ -79,7 +79,8 @@ for i in range(5):
     print(answer)
 ```
   ### Результат
- ![image](https://github.com/Simon4747/Software_Engineeing/assets/147588966/2be2e0b9-77e4-4278-be3a-83a8119515b9)
+![image](https://github.com/Simon4747/Software_Engineeing/assets/147588966/4d383e4d-aea5-46fd-9634-c9566b6353fa)
+
 
 
  
